@@ -1,0 +1,18 @@
+返回Boolean
+(agent) [278798] Called com.tantan.x.db.user.a.f.aa(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.A(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.ag(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.B(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.bd(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.bQ(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.e(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.H(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.J(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.q(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.t(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.y(com.tantan.x.db.user.User)
+
+返回其他类型
+(agent) [278798] Called com.tantan.x.db.user.a.f.aY(com.tantan.x.db.user.User)
+(agent) [278798] Called com.tantan.x.db.user.a.f.bc(com.tantan.x.db.user.User)
+
